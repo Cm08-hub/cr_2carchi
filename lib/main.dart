@@ -12,7 +12,6 @@ class CR2CArchiApp extends StatelessWidget {
       title: 'CR 2CArchi',
       theme: ThemeData(
         primarySwatch: Colors.blueGrey,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
       home: HomeScreen(),
     );
